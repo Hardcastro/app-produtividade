@@ -1,1 +1,0 @@
-frontend/src/components/Display.tsx
